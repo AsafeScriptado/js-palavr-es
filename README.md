@@ -1,1 +1,1 @@
-# js-palavr-es
+# js-palavroes
